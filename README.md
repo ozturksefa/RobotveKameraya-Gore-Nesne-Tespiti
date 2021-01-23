@@ -35,22 +35,17 @@ hedef'in poz bilgisini tanımlayınız.
 
 numaranızın rakamları toplamı 
 
-Hedef	Hedef Kamera
-0	varil	kinect
-1	çöp kutusu	kamera
-2	tekerlek	derinlik kamera
- 3	 kutu	 kinect
- 4	 tuğla	 kamera
- 5	geniş tuğla 	 derinlik kamera
- 6	 varil	 kinect
+Hedef	Hedef 	         Kamera
+0	varil		 kinect
+1	çöp kutusu	 kamera
+2	tekerlek	 derinlik kamera
+3	kutu	 	 kinect
+4	tuğla	 	 kamera
+5	geniş tuğla 	 derinlik kamera
+6	varil	         kinect
 
 
 
-
-
-Şekilde verilen 
-kamera 
-<a href="#"><img src="http://edestek2.kocaeli.edu.tr/pluginfile.php/143391/mod_assign/intro/Gazebo_008.png" alt="Örnek Resim" /></a>
 
 kamera
 x	y	z	roll	pitch	yaw
