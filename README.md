@@ -50,7 +50,7 @@ Hedef	Hedef Kamera
 
 Şekilde verilen 
 kamera 
-<img src="http://edestek2.kocaeli.edu.tr/pluginfile.php/143391/mod_assign/intro/Gazebo_008.png" alt="Örnek Resim"/>
+<a href="#"><img src="http://edestek2.kocaeli.edu.tr/pluginfile.php/143391/mod_assign/intro/Gazebo_008.png" alt="Örnek Resim" /></a>
 
 kamera
 x	y	z	roll	pitch	yaw
