@@ -4,27 +4,32 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
 	<meta name="generator" content="LibreOffice 7.0.2.2 (Linux)"/>
 	<meta name="created" content="00:00:00"/>
 	<meta name="changed" content="00:00:00"/>
 	
 </head>
-<body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><pre>Aşağıda verilen poz bilgilerini verildikleri koordinat sistemlerine dikkat ederek matrislerde saklayınız. 
+<body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><pre>
+Aşağıda verilen poz bilgilerini verildikleri koordinat sistemlerine dikkat ederek matrislerde saklayınız. 
 
-Robotların ve eşyaların isimlerini de string olarak matrise ekleyiniz. Robotların üzerinde yük olup olmadığı bilgisini rastgele olarak atayınız. 
+Robotların ve eşyaların isimlerini de string olarak matrise ekleyiniz.
+Robotların üzerinde yük olup olmadığı bilgisini rastgele olarak atayınız. 
 
 
 
 Numaranızın içindeki tüm rakamları toplayıp beşe göre mod alınız. Örneğin : 1111111111 = 9 % 6 = 3
 
-Şekilde verilen bilgileri kullanarak size tabloda verilen bir hedef için tüm robotların uzaklık bilgilerini bir matriste saklayınız.
+Şekilde verilen bilgileri kullanarak size tabloda verilen bir hedef için 
+tüm robotların uzaklık bilgilerini bir matriste saklayınız.
 
-Şekilde verilen bilgileri kullanarak size tabloda verilen bir hedef için en yakın robotu bulunuz (yük durumuna bakmadan)..
+Şekilde verilen bilgileri kullanarak size tabloda verilen bir hedef için 
+en yakın robotu bulunuz (yük durumuna bakmadan)..
 
-Şekilde verilen bilgileri kullanarak size tabloda verilen bir hedef için en yakın ve üzerinde yük bulunmayan robotu bulunuz..
+Şekilde verilen bilgileri kullanarak size tabloda verilen bir hedef için 
+en yakın ve üzerinde yük bulunmayan robotu bulunuz..
 
-Tabloda verilen &quot;Hedef kamera&quot; çerçevesine göre hedef'in poz bilgisini tanımlayınız.
+Tabloda verilen &quot;Hedef kamera&quot; çerçevesine göre 
+hedef'in poz bilgisini tanımlayınız.
 
 
 
