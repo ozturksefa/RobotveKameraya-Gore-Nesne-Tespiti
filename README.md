@@ -8,11 +8,7 @@
 	<meta name="generator" content="LibreOffice 7.0.2.2 (Linux)"/>
 	<meta name="created" content="00:00:00"/>
 	<meta name="changed" content="00:00:00"/>
-	<style type="text/css">
-		@page { size: 8.27in 11.69in; margin: 0.79in }
-		p { margin-bottom: 0.1in; line-height: 115%; background: transparent }
-		pre { font-family: "Liberation Mono", monospace; font-size: 10pt; background: transparent }
-	</style>
+	
 </head>
 <body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><pre>Aşağıda verilen poz bilgilerini verildikleri koordinat sistemlerine dikkat ederek matrislerde saklayınız. 
 
